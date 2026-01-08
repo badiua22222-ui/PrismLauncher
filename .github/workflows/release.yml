@@ -112,3 +112,5 @@ jobs:
             PrismLauncher-Windows-MSVC-Setup-${{ env.VERSION }}.exe
             PrismLauncher-macOS-${{ env.VERSION }}.zip
             PrismLauncher-${{ env.VERSION }}.tar.gz
+
+            
